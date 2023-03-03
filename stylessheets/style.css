@@ -9,7 +9,7 @@
 
 .header-contenedor{
     height: 400px;
-    background-image:url(/imagenes/bannerBackground.jpg);
+    background-image:url(imagenes/bannerBackground.jpg);
     background-size:cover;
 }
 
